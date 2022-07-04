@@ -1,0 +1,29 @@
+#main{
+    text-align: center;
+    background: #eee;
+}
+#img-div{
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+#image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#tribute-info{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+#unordered-list{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+ul li{
+    padding: .5rem;
+}
